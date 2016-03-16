@@ -5,7 +5,7 @@ build: build/css/styles.css build/js/bootstrap.js build/*.html
 build/js:
 	mkdir -p build/js
 
-build/js/bootstrap.js: package.json js/bootstrap.js
+build/js/bootstrap.js: build/js package.json js/bootstrap.js
 	./node_modules/.bin/browserify js/bootstrap.js -o $@
 
 build/css:
