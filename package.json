@@ -1,14 +1,14 @@
 {
-  "name": "starhs-ios-mockups",
+  "name": "starhs-mockups",
   "version": "0.0.1",
-  "description": "Mockups for the staRHs iOS app",
+  "description": "Mockups for the staRHs apps",
   "main": "index.html",
   "scripts": {
     "lint": "./node_modules/.bin/standard js util"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ResourcefulHumans/staRHs-iOS-mockups.git"
+    "url": "git+https://github.com/ResourcefulHumans/staRHs-mockups.git"
   },
   "keywords": [
     "staRHs",
@@ -21,9 +21,9 @@
   "author": "Resourceful Humans <info@resourceful-humans.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ResourcefulHumans/staRHs-iOS-mockups/issues"
+    "url": "https://github.com/ResourcefulHumans/staRHs-mockups/issues"
   },
-  "homepage": "https://github.com/ResourcefulHumans/staRHs-iOS-mockups#readme",
+  "homepage": "https://github.com/ResourcefulHumans/staRHs-mockups#readme",
   "devDependencies": {
     "ghooks": "^1.0.3",
     "standard": "^6.0.8",

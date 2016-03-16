@@ -29,4 +29,4 @@ after_success:
   - git config user.email "jarvis@resourceful-humans.com"
   - git add .
   - git commit -m "Deploy to GitHub Pages"
-  - git push --force --quiet "https://${GH_TOKEN}@github.com/ResourcefulHumans/staRHs-iOS-mockups.git" master:gh-pages > /dev/null 2>&1
+  - git push --force --quiet "https://${GH_TOKEN}@github.com/ResourcefulHumans/staRHs-mockups.git" master:gh-pages > /dev/null 2>&1
