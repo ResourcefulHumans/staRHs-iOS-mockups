@@ -1,4 +1,4 @@
-# staRHs iOS mockups
+# staRHs mockups
 
 [![Build Status](https://travis-ci.org/ResourcefulHumans/staRHs-mockups.svg?branch=master)](https://travis-ci.org/ResourcefulHumans/staRHs-mockups)
 [![monitored by greenkeeper.io](https://img.shields.io/badge/greenkeeper.io-monitored-brightgreen.svg)](http://greenkeeper.io/) 
