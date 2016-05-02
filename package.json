@@ -26,7 +26,7 @@
   "homepage": "https://github.com/ResourcefulHumans/staRHs-mockups#readme",
   "devDependencies": {
     "ghooks": "^1.0.3",
-    "standard": "^6.0.8",
+    "standard": "^7.0.0",
     "validate-commit-msg": "^2.4.0"
   },
   "dependencies": {
