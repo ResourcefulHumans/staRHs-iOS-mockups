@@ -35,7 +35,7 @@
     "browserify": "^13.0.0",
     "browserify-shim": "^3.8.12",
     "glob": "^7.0.3",
-    "jquery": "^2.2.1",
+    "jquery": "^3.0.0",
     "lodash": "^4.6.1",
     "material-design-icons": "^2.2.1",
     "node-sass": "^3.4.2",
