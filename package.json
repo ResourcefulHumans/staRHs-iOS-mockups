@@ -40,7 +40,7 @@
     "material-design-icons": "^2.2.1",
     "node-sass": "^3.4.2",
     "tether": "^1.2.0",
-    "yargs": "^4.3.1"
+    "yargs": "^5.0.0"
   },
   "config": {
     "ghooks": {
