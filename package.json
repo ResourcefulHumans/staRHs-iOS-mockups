@@ -4,7 +4,7 @@
   "description": "Mockups for the staRHs apps",
   "main": "index.html",
   "scripts": {
-    "lint": "./node_modules/.bin/standard js util"
+    "lint": "standard js util"
   },
   "repository": {
     "type": "git",
