@@ -28,7 +28,7 @@
   "homepage": "https://github.com/ResourcefulHumans/staRHs-mockups#readme",
   "devDependencies": {
     "husky": "^0.13.3-0",
-    "standard": "^10.0.0-beta.0",
+    "standard": "^14.0.2",
     "validate-commit-msg": "^2.4.0"
   },
   "dependencies": {
